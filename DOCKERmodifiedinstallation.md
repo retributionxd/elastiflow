@@ -16,6 +16,6 @@ sudo docker-compose up -d
 
 ## Import Dashboards of ARED analytics from routers into Kibana
 
-The Index Patterns, vizualizations and dashboards can be loaded into Kibana by importing the `elastiflow.kibana.<VER>.json` file from within the Kibana UI. This is done from the `Management -> Saved Objects` page.
+The Index Patterns, vizualizations and dashboards can be loaded into Kibana by importing the required json` file from within the Kibana UI. This is done from the `Management -> Saved Objects` page.
 
 You may also want to configure the recommend advanced Kibana settings discussed in `INSTALL.md`.
