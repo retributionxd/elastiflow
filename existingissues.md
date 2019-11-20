@@ -1,6 +1,3 @@
-# ElastiFlow&trade; - Known Issues
-
-This document explains known issues with the ElastiFlow&trade; solution. Most of the issues described here are related to the underlying Elastic Stack components.
 
 ## 1. Template conflicts between devices
 
